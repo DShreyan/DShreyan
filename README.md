@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyan</h1>
-<h3 align="center">I am currently pursuing a B.Tech in Computer Science Engineering at the Indian Institute of Information Technology, Sri City.</h3>
+<h3 align="center">I am currently pursuing B.Tech in Computer Science Engineering at the Indian Institute of Information Technology, Sri City.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dshreyan&label=Profile%20views&color=0e75b6&style=flat" alt="dshreyan" /> </p>
 
